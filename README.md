@@ -7,7 +7,7 @@ This project is driven by FIfF members https://www.fiff.de/index.html
 
 In 2022 the development of the prototype was founded by DSEE https://www.deutsche-stiftung-engagement-und-ehrenamt.de/
 
-In 2022 we developed the prototype and now we are testing and continue to develop it.
+In 2022 we developed the prototype and now we are testing more sensors and continue to develop it.
 
 We want to provide an open / open source, flexible Sensor Station for Environmental-Citizen-Sensoring and -Science without vendor-lock-in or datalink to producers.
 
