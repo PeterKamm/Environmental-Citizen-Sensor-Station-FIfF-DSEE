@@ -1,4 +1,4 @@
-# Environmental-Citizen-Sensor-Station-FIfF-DSEE
+# Environmental Citizen Sensor Station
 
 We develop an environmental sensorstation for outdoor use with a basic set of sensors, expandable with additional sensors.
 Data transmission is based on LoRaWAN.
