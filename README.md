@@ -10,3 +10,5 @@ In 2022 it was founded by DSEE https://www.deutsche-stiftung-engagement-und-ehre
 In 2022 we developed a prototype and now we are testing and continue to develop it.
 
 We want to provide an open / open source, flexible Sensor Station for Environmental-Citizen-Sensoring and -Science without vendor-lock-in or datalink to producers.
+
+https://www.fiff.de/presse/pressemitteilungen/Citizens_Sensing.html
