@@ -1,7 +1,7 @@
 # Environmental Citizen Sensor Station
 
 We develop an environmental sensorstation for outdoor use with a basic set of sensors, expandable with additional sensors.
-Data transmission is based on LoRaWAN.
+Data transmission is based on [LoRaWAN.](https://de.wikipedia.org/wiki/Long_Range_Wide_Area_Network)
 
 This project is driven by FIfF members https://www.fiff.de/index.html
 In 2022 it was founded by DSEE https://www.deutsche-stiftung-engagement-und-ehrenamt.de/
