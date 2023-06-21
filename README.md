@@ -12,3 +12,13 @@ In 2022 we developed the prototype and now we are testing more sensors and conti
 We want to provide an open / open source, flexible Sensor Station for Environmental-Citizen-Sensoring and -Science without vendor-lock-in or datalink to producers.
 
 https://www.fiff.de/presse/pressemitteilungen/Citizens_Sensing.html
+
+
+
+
+
+![DSEE-logo-k](https://github.com/PeterKamm/Environmental-Citizen-Sensor-Station-FIfF-DSEE/assets/88279758/01c19190-f63e-482a-845d-e40f62151df9)
+
+Gefördert von Deutsche Stiftung für Engagement und Ehrenamt
+
+https://www.deutsche-stiftung-engagement-und-ehrenamt.de/
